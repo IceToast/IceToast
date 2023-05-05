@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icetoast" alt="icetoast" /></a> </p>
 
-- 🔭 I’m currently working on **my bachelor thesis**
-
 - 🤝 I'm contributing to [ControlPanel.GG](https://github.com/ControlPanel-gg/dashboard)
 
 - 🌱 I’m building my own full stack web app ***Secret***
