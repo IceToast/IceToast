@@ -5,7 +5,9 @@
 
 - 🤝 I'm contributing to [ControlPanel.GG](https://github.com/ControlPanel-gg/dashboard)
 
-- 🌱 I’m building my own full stack web app ***Secret***
+- 🏃 Active developing for LiveArchive [LiveArchive.net](https://livearchive.net/)
+
+- 🧑‍💻 Working at TXS GmbH [TXS.de](https://www.txs.de/)
 
 
 <h3 align="left">Languages and Tools:</h3>
